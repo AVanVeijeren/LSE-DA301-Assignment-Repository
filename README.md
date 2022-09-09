@@ -19,7 +19,8 @@ Assignment week 2 Insights:
 - attached to excel spreadsheet summarising cluster characteristics. 
 
 Assignment week 4 Insights:
- Exploratory analysis in R
+
+Exploratory analysis in R
 First look at the data
 •	X360 is the most frequently used platform in the data set, then PS3 and then PC. 
 •	2600 and GEN is the least frequently used platform to launch games. 
